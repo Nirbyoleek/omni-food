@@ -1,0 +1,6 @@
+# omni-food
+OMNIFOOD WEBSITE
+A FOOD DELIVERY WEBSITE THAT DELIVERS FOOD TO YOUR DOORSTEP. 
+ONLY LAYOUT
+
+LINK - https://omnifood-nirbyoleek.netlify.app/
